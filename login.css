@@ -1,0 +1,28 @@
+html,body{
+    background-color: blueviolet;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100%;
+    font-family: 'Numans', sans-serif;
+    }
+    .card{
+    height: 370px;
+    margin-top: auto;
+    margin-bottom: auto;
+    width: 400px;
+    background-color: rgba(0,0,0,0.5) !important;
+    }
+    .card-header h3{
+    color: white;
+    }
+    .login_btn{
+    color: black;
+    background-color: rgb(51, 189, 108);
+    width: 100px;
+    padding: 5px;
+    margin-left: 10px;
+    }
+    .login_btn:hover{
+    color: black;
+    background-color: white;
+    }

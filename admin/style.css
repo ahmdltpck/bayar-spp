@@ -1,0 +1,26 @@
+
+.display-4{
+    font-weight: bold;
+}
+
+.card-body-icon{
+    position: absolute;
+    z-index: 0;
+    text-outline: 25px;
+    right:4px;
+    opacity: 0.4;
+    font-size: 90px;
+}
+
+.nav{
+    position: fixed;
+    left: 0;
+}
+
+.profil .fa i{
+    font-size: 40px;
+}
+
+.nav-item .nav-link a:hover{
+    color: black;
+}
